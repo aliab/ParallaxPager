@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <attr name="a_in" format="float" />
-  <attr name="a_out" format="float" />
-  <attr name="x_in" format="float" />
-  <attr name="x_out" format="float" />
-  <attr name="y_in" format="float" />
-  <attr name="y_out" format="float" />
+  <attr name="a_in_left" format="float" />
+  <attr name="a_in_right" format="float" />
+  <attr name="a_out_left" format="float" />
+  <attr name="a_out_right" format="float" />
+  <attr name="x_in_left" format="float" />
+  <attr name="x_in_right" format="float" />
+  <attr name="x_out_left" format="float" />
+  <attr name="x_out_right" format="float" />
+  <attr name="y_in_left" format="float" />
+  <attr name="y_in_right" format="float" />
+  <attr name="y_out_left" format="float" />
+  <attr name="y_out_right" format="float" />
   <attr name="override_visibility" format="boolean" />
+  <attr name="p_name" format="float" />
 </resources>
